@@ -4,4 +4,5 @@ for i in {1..3}
 do
 result=$(($i+$NUM))
 echo $result
+echo "this is my first modification"
 done 
