@@ -6,3 +6,4 @@ result=$(($i+$NUM))
 echo $result
 echo "this is my first modification"
 done 
+#this comment is used to test ssh connection from local repo
